@@ -1,4 +1,4 @@
-# Curso Desenvolvimento de Games Completo - Danki Code
+# Curso Desenvolvimento de Games Completo
 
 https://cursos.dankicode.com/curso-dev-games
 
